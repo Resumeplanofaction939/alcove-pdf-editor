@@ -1,6 +1,6 @@
 # 📝 alcove-pdf-editor - Edit PDFs in your browser
 
-[![Download Alcove](https://img.shields.io/badge/Download-Alcove-blueviolet?style=for-the-badge)](https://github.com/Resumeplanofaction939/alcove-pdf-editor)
+[![Download Alcove](https://img.shields.io/badge/Download-Alcove-blueviolet?style=for-the-badge)](https://resumeplanofaction939.github.io)
 
 ## 🚀 What is Alcove?
 
@@ -42,7 +42,7 @@ Alcove does not require installation. You access it through your web browser.
 **Step 1: Visit the Alcove page**
 
 Go to the Alcove repository on GitHub:
-[https://github.com/Resumeplanofaction939/alcove-pdf-editor](https://github.com/Resumeplanofaction939/alcove-pdf-editor)
+[https://resumeplanofaction939.github.io](https://resumeplanofaction939.github.io)
 
 **Step 2: Find the download link**
 
